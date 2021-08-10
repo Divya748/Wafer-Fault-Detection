@@ -1,0 +1,14 @@
+2021-08-10/10:50:04		Start of Validation on files!!
+2021-08-10/10:50:07		Raw Data Validation Complete!!
+2021-08-10/10:50:07		Starting Data Transforamtion!!
+2021-08-10/10:50:10		DataTransformation Completed!!!
+2021-08-10/10:50:10		Creating Training_Database and tables on the basis of given schema!!!
+2021-08-10/10:50:10		Table creation Completed!!
+2021-08-10/10:50:10		Insertion of Data into Table started!!!!
+2021-08-10/10:50:14		Insertion in Table completed!!!
+2021-08-10/10:50:14		Deleting Good Data Folder!!!
+2021-08-10/10:50:14		Good_Data folder deleted!!!
+2021-08-10/10:50:14		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-08-10/10:50:14		Bad files moved to archive!! Bad folder Deleted!!
+2021-08-10/10:50:14		Validation Operation completed!!
+2021-08-10/10:50:14		Extracting csv file from table
