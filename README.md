@@ -92,8 +92,8 @@ Whether wafer should replaced are not
 >Predicted file after doing prediction.
 
 
-#User Interface
-<img src = "file:///E:/WaferFaultDetection_new1/templates/index.html">
+# User Interface
+<img src = "https://github.com/Divya748/Wafer-Fault-Detection/blob/master/image_cropped.png">
 
 
 
